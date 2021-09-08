@@ -284,4 +284,4 @@ async def channels(ctx):
  
  
 ##BOT TOKEN##
-bot.run ("NjkwNjU1Mzg0NzI1MzU2NjA0.XnUk8w.rPQh30OGzArKATUUIhqAsNp42vE")
+bot.run ("TOKEN")
