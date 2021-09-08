@@ -1,4 +1,4 @@
-#coding:utf-8
+#made by SeenKid
 
 import random
 import string
