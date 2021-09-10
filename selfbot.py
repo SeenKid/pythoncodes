@@ -12,7 +12,7 @@ bot.remove_command('help')
 
 @bot.event
 async def on_ready():
-	print("SelfBot ON !  by TweekLG")
+	print("SelfBot ON !  by Sortgenji edited by SeenKid")
 
 
 
@@ -28,7 +28,7 @@ async def help(ctx):
 
 	)
 
-	embed.set_footer(text="Crée par TweekLG")
+	embed.set_footer(text="by Sortgenji edited by SeenKid")
 	embed.set_image(url="https://cdn110.picsart.com/216591336002202.gif?to=min&r=640")
 	embed.set_thumbnail(url="https://cdn110.picsart.com/216591336002202.gif?to=min&r=640")
 	embed.set_author(name=" ")
@@ -54,7 +54,7 @@ async def fun(ctx):
 
 	)
 
-	embed.set_footer(text="Crée par TweekLG")
+	embed.set_footer(text="by Sortgenji edited by SeenKid")
 	embed.set_image(url="https://cdn110.picsart.com/216591336002202.gif?to=min&r=640")
 	embed.set_thumbnail(url="https://cdn110.picsart.com/216591336002202.gif?to=min&r=640")
 	embed.set_author(name=" ")
@@ -83,7 +83,7 @@ async def raid(ctx):
 
 	)
 
-	embed.set_footer(text="Crée par TweekLG")
+	embed.set_footer(text="by Sortgenji edited by SeenKid")
 	embed.set_image(url="https://cdn110.picsart.com/216591336002202.gif?to=min&r=640")
 	embed.set_thumbnail(url="https://cdn110.picsart.com/216591336002202.gif?to=min&r=640")
 	embed.set_author(name=" ")
@@ -105,7 +105,7 @@ async def mod(ctx):
 
 	)
 
-	embed.set_footer(text="Crée par TweekLG")
+	embed.set_footer(text="by Sortgenji edited by SeenKid")
 	embed.set_image(url="https://cdn110.picsart.com/216591336002202.gif?to=min&r=640")
 	embed.set_thumbnail(url="https://cdn110.picsart.com/216591336002202.gif?to=min&r=640")
 	embed.set_author(name=" ")
