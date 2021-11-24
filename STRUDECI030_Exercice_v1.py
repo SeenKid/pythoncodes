@@ -1,27 +1,3 @@
-#============================================================================
-#====         EPTM - Ecole professionnelle technique et des métiers
-#============================================================================
-#====                      Programmation Module M319
-#====                     ---------------------------
-#====------------------------------------------------------------------------
-#==== Nom du projet de programme        : STRUDECI030_Enoncé_v1
-#==== Langage de programmation utilisé  : Python
-#==== Version                           : V1.0
-#==== Nom du(des) fichier(s) source     : STRUDECI030_Enoncé_v1.py
-#====------------------------------------------------------------------------
-#==== Créateur (Nom, Prénom)            : Berlemont Yann
-#==== Classe                            : Info1A
-#==== Date de création                  : 22.11.21
-#==== Date de la dernière modification  : 22.11.21
-#====------------------------------------------------------------------------
-#==== Description succincte du programme:
-#==== ----------------------------------
-#==== 
-#====
-#====
-#====
-#============================================================================
-
 #import et clear
 import random
 import os
