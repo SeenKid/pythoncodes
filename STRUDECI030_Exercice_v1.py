@@ -19,5 +19,13 @@ if addition == "Y" or addition == "y":
         print("Votre saisie est fausse !")
     else: 
         print("Bravo, le bon résultat est bel et bien " + str(nombrereel))
+
+elif addition == "N" or addition == "n":
+    print("Vous avez choisi de ne pas faire le calcul...")
+
 elif addition != "Y" and "y" and "N" and "n":
     print("Je n'ai pas compris votre saisie.")
+    
+    #######################################
+    
+    print("Fin du programme...")
