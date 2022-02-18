@@ -25,7 +25,8 @@ elif addition == "N" or addition == "n":
 
 elif addition != "Y" and "y" and "N" and "n":
     print("Je n'ai pas compris votre saisie.")
-    
+    print("Sortie de la boucle")
 #######################################
     
+print("Fin du programme...")
 print("Fin du programme...")
