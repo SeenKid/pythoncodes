@@ -1,7 +1,7 @@
 #import et clear
+import os, sys
 import random
-import os
-os.system('cls')
+os.system('cls' if sys.platform == 'win32' else 'clear')
 
 #Déclaration de nos variables
 nombre1 = random.randint(0,100)
