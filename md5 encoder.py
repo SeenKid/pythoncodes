@@ -1,5 +1,5 @@
 import hashlib
 
-resultat = hashlib.md5("ez".encode())
+resultat = hashlib.md5("YOUR_PASSWORD".encode())
 
 print(resultat.hexdigest())
